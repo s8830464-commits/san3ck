@@ -1,0 +1,1 @@
+"""Telegram notes bot package."""
